@@ -6,7 +6,6 @@ All you need to do to use the program is to download the.jar executable file cal
 You can also copy the result and paste it anywhere you need to :)
 
 How to write morse code:
-
 1- You use dots for the short pulses and underscore for long ones.
 2- Use a single space to seperate parts of a letter.
 3- Use three spaces to seperate letters.
